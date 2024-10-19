@@ -2,6 +2,6 @@
 #include <TazoDorado.hpp>
 
 int main(){
-
-    std::cout<<"Hola mundo"<<std::endl;
+    
+    std::cout<<"Imprimi desde c++"<<std::endl;
 }
