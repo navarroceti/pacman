@@ -1,1 +1,4 @@
 # pacman
+
+
+Readme rapido
